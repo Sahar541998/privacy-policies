@@ -1,8 +1,8 @@
-# Maple NPC Finder: Privacy Policy
+# GeoNPC: Privacy Policy
 
 Last updated: November 2, 2026
 
-Maple NPC Finder is a small fan-made game made by Sahar Levy. This page explains what information the app uses, how it is used, and how you can delete it.
+GeoNPC is a small fan-made game made by Sahar Levy. This page explains what information the app uses, how it is used, and how you can delete it.
 
 ## Playing as a guest
 
@@ -43,7 +43,7 @@ Open Profile and tap **Delete Account**. That removes your login, your name, you
 
 ## Children
 
-Maple NPC Finder is a general-audience game. We do not knowingly collect personal information from children under 13. If you believe a child has created an account, email us and we will delete it.
+GeoNPC is a general-audience game. We do not knowingly collect personal information from children under 13. If you believe a child has created an account, email us and we will delete it.
 
 ## Changes
 
